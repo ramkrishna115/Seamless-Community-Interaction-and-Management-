@@ -37,7 +37,7 @@ const Billings = () => {
   }
 
     const options = {
-      key: "rzp_test_NsVqkw88rBhOte", 
+      key: "enter your key", 
       amount: amount * 100,
       currency: "INR",
       name: "Society Admin Dashboard - Billing",
